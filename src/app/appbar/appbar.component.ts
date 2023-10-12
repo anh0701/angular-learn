@@ -8,3 +8,5 @@ import { Component } from '@angular/core';
 export class AppbarComponent {
 
 }
+
+// ng g c appbar
