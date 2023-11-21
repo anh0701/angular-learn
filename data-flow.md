@@ -1,0 +1,2 @@
+- @input(): truyền dữ liệu từ cha xuống con
+-  @Output(): truyền dữ liệu từ cha đến con
